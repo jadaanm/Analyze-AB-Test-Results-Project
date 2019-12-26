@@ -1,4 +1,6 @@
 # Analyze-AB-Test-Results-Project
+## By Manal Al-Jadaan
+
 ## Overview
 The project conducted A/B testing of user conversions from an old page to the new wepage. The steps include conducting probabilites Statistics, hypothesis test, bootstrapping, and Logistic regression.
 
